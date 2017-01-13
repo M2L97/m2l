@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Acceuil.html",
+    "currentPage": "Accueil.html",
     "name": "Mon Site m2l",
     "theme": {
       "name": "mobirise3",
@@ -1123,7 +1123,7 @@
         }
       ]
     },
-    "Acceuil.html": {
+    "Accueil.html": {
       "settings": {
         "main": true,
         "title": "",
